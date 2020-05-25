@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Button /> renders correctly using defaultProp and required propss 1`] = `
+<button
+  type="button"
+>
+  <span>
+    "props.children"
+  </span>
+</button>
+`;
+
+exports[`<Button /> renders correctly with all optional and required props 1`] = `
+<button
+  type="button"
+>
+  <span
+    className="a11y"
+  >
+    Accisbility Text
+  </span>
+  <span>
+    "props.children"
+  </span>
+</button>
+`;

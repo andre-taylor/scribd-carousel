@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Linkable /> renders correctly with all required props 1`] = `
+<a
+  className="linkableContainer"
+  href="www.scribd.com"
+>
+  <div>
+    Linkable container
+  </div>
+</a>
+`;
+
+exports[`<Linkable /> renders correctly with optional and required props 1`] = `
+<a
+  className="linkableContainer linkable"
+  href="www.scribd.com"
+>
+  <div>
+    Linkable container
+  </div>
+</a>
+`;

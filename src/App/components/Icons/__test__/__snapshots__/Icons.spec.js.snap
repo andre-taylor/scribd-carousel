@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<IconArrow /> renders correctly with defaultProps 1`] = `
+<span
+  className="arrow arrowLeft"
+/>
+`;
+
+exports[`<IconArrow /> renders correctly with direction=arrowDisabled 1`] = `
+<span
+  className="arrow arrowDisabled"
+/>
+`;
+
+exports[`<IconArrow /> renders correctly with direction=arrowLeft 1`] = `
+<span
+  className="arrow arrowLeft"
+/>
+`;
+
+exports[`<IconArrow /> renders correctly with direction=arrowRight 1`] = `
+<span
+  className="arrow arrowRight"
+/>
+`;

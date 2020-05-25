@@ -1,0 +1,18 @@
+.mediaContainer {
+  padding: 0 6px;
+}
+.mediaImage {
+  background-color: #f8f9fd;
+  border: 1px solid #e9edf8;
+}
+.mediaCaption {
+  margin-top: 4px;
+}
+.mediaTitle {
+  font-size: 1.6rem;
+  color: #000514;
+}
+.mediaAuthor {
+  font-size: 1.4rem;
+  color: #57617a;
+}

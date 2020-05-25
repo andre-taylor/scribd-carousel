@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<MediaFigure /> renders correctly with optional and required props 1`] = `
+<a
+  className="linkableContainer"
+  href="https://www.scribd.com"
+>
+  <figure
+    className="mediaContainer"
+  >
+    <img
+      alt="Media Title"
+      className="mediaImage"
+      src="https://imgv2-1-f.scribdassets.com/img/word_document/163600930/149x198/25c730f1a0/1556657999?v=1"
+    />
+    <figcaption
+      className="mediaCaption"
+    >
+      <h3
+        className="mediaTitle"
+      >
+        Media Title
+      </h3>
+      <h4
+        className="mediaAuthor"
+      >
+        Media Author
+      </h4>
+    </figcaption>
+  </figure>
+</a>
+`;
+
+exports[`<MediaFigure /> renders correctly with required props 1`] = `
+<figure
+  className="mediaContainer"
+>
+  <img
+    alt="Media Title"
+    className="mediaImage"
+    src="https://imgv2-1-f.scribdassets.com/img/word_document/163600930/149x198/25c730f1a0/1556657999?v=1"
+  />
+  <figcaption
+    className="mediaCaption"
+  >
+    <h3
+      className="mediaTitle"
+    >
+      Media Title
+    </h3>
+  </figcaption>
+</figure>
+`;

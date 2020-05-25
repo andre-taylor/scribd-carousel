@@ -1,0 +1,45 @@
+/* destyle */
+html {
+  font-size: 62.5%;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 1.6rem;
+  line-height: 1.4;
+}
+a {
+  text-decoration: none;
+}
+button {
+  border: 0;
+  background: none;
+  padding: 0;
+  outline: none;
+}
+button:hover {
+  cursor: pointer;
+}
+h2,
+h3,
+h4 {
+  margin: 0;
+}
+ul {
+  list-style: none;
+  margin: 0;
+}
+figure {
+  margin: 0;
+}
+
+@font-face {
+  font-family: 'SourceSansPro';
+  src: local('SourceSansPro'),
+    url(./font/SourceSansPro-Regular.ttf) format('truetype');
+}
+
+body {
+  font-family: SourceSansPro;
+}

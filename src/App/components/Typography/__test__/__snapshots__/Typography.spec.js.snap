@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Typography /> renders correctly with a "h2" variant 1`] = `
+<h2
+  className="cssStyle"
+>
+  The quick brown fox jumped over the lazy dog.
+</h2>
+`;
+
+exports[`<Typography /> renders correctly with a "h3" variant 1`] = `
+<h3
+  className="cssStyle"
+>
+  The quick brown fox jumped over the lazy dog.
+</h3>
+`;
+
+exports[`<Typography /> renders correctly with a "h4" variant 1`] = `
+<h4
+  className="cssStyle"
+>
+  The quick brown fox jumped over the lazy dog.
+</h4>
+`;
+
+exports[`<Typography /> renders correctly with a "p" variant 1`] = `
+<p
+  className="cssStyle"
+>
+  The quick brown fox jumped over the lazy dog.
+</p>
+`;
+
+exports[`<Typography /> renders correctly with a "span" variant 1`] = `
+<span
+  className="cssStyle"
+>
+  The quick brown fox jumped over the lazy dog.
+</span>
+`;
+
+exports[`<Typography /> renders correctly with default and content props 1`] = `
+<span>
+  The quick brown fox jumped over the lazy dog.
+</span>
+`;
+
+exports[`<Typography /> renders correctly with default props and element children props 1`] = `
+<span>
+  The quick brown fox jumped over the lazy dog.
+</span>
+`;

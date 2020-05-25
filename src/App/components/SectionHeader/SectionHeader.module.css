@@ -1,0 +1,24 @@
+.sectionHeader {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 0 6px 18px;
+  line-height: 0.75;
+  flex-wrap: wrap;
+}
+.sectionTitle {
+  font-size: 2.2rem;
+  color: #000514;
+}
+.sectionAction {
+  font-size: 1.6rem;
+  color: #a9085e;
+}
+.sectionSubTitle {
+  flex-basis: 100%;
+  font-size: 18px;
+  font-weight: 700;
+  font-style: italic;
+  color: #57617a;
+  margin: 18px 0 0;
+}

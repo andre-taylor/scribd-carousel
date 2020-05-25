@@ -1,0 +1,17 @@
+.arrow {
+  border: solid #57617a;
+  border-width: 0 2px 2px 0;
+  display: inline-block;
+  padding: 5px;
+  vertical-align: middle;
+}
+.arrowLeft {
+  transform: rotate(135deg);
+}
+.arrowRight {
+  transform: rotate(-45deg);
+}
+.arrowDisabled {
+  border-color: #fff;
+  cursor: default;
+}

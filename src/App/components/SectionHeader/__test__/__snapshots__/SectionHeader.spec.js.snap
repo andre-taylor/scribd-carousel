@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SectionHeader /> renders correctly with all optional and required props 1`] = `
+<header
+  className="sectionHeader"
+>
+  <h2
+    className="sectionTitle"
+  >
+    Buzzy Reads This Week
+  </h2>
+  <a
+    className="sectionAction"
+    href="https://www.scribd.com/lists/21604319/Buzzy-Reads-This-Week"
+  >
+    View More
+  </a>
+  <p
+    className="sectionSubTitle"
+  >
+    The books everybody’s talking about.
+  </p>
+</header>
+`;
+
+exports[`<SectionHeader /> renders correctly with required props 1`] = `
+<header
+  className="sectionHeader"
+>
+  <h2
+    className="sectionTitle"
+  >
+    Buzzy Reads This Week
+  </h2>
+</header>
+`;
