@@ -11,7 +11,7 @@ I enjoyed the interview carousel exercise. I wanted to flush out a few concepts 
 - Created my own reset styles.
 
 ## Todo
-- Functional test for <App /> and <Carousel* />. I ran out of time before creating functional test for larger components. It’s taco night, and dinner is almost ready! :)
+- Functional test for <Carousel* />. I ran out of time before creating functional test for larger components. It’s taco night, and dinner is almost ready! :)
 
 ## Known Issues
 - The carousel doesn't recognize when the last CarouselItem scrolls into view. You have to click ArrowRight one more time before the carousel registers that you’ve reached the end of the items.
